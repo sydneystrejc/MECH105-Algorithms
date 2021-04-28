@@ -7,8 +7,8 @@ Numerical Method Algorithms
 - Newton Raphson *open* 
 
 ## Factorization
--LU Factorization 
--Gauss Elimination with Pivot
+- LU Factorization 
+- Gauss Elimination with Pivot
 
 ## Numerical Integration 
 - Composite Simpson's 1/3 rule 
